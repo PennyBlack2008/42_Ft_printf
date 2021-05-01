@@ -50,3 +50,14 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# 42 tester
+printf_lover_v2
+printf_lover_v2/*
+a.out
+*.o
+pft/
+pft_2019/
+42TESTERS*
+pft/
+pft_2019/
