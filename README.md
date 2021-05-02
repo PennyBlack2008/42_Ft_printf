@@ -1,6 +1,6 @@
 # Ft_printf
 
-printf 의 기본 적인 기능들을 똑같이 구현해보는 과제
+printf 의 기본 적인 기능들을 똑같이 구현한 함수를 만드는 과제. 
 
 ## Peer Evaluation
 
